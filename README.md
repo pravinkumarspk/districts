@@ -83,3 +83,7 @@ The dataset is collected and cleaned from the official Tamil Nadu government sit
 ### Developer Notes
  - This API was created as part of a learning initiative to build real-world backend services, handle query parameters, and deploy on serverless platforms like Vercel. Suggestions and feedback are welcome.
 
+## Proof of Completion
+<img width="368" height="329" alt="image" src="https://github.com/user-attachments/assets/82a29854-19f8-4839-88b1-700e717b79bf" />
+
+
